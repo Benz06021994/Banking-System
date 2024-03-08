@@ -1,7 +1,7 @@
 # Banking-System
 This repository is created for Banking System.
 
-[Banking System](https://drive.google.com/file/d/1Sdz1cr02L52S5C-d4O-5kialyWvdewRL/view?usp=drive_link)
+[Banking System Video](https://drive.google.com/file/d/1Sdz1cr02L52S5C-d4O-5kialyWvdewRL/view?usp=drive_link)
 
 Overview
 
@@ -22,5 +22,5 @@ full account info()
 
 Used Main function for entering the values of account creation
 Used Sec_Main function for entering the login credentials and for further process
-Used while loop usnder Sec_main() to choose the options 
+Used while loop under Sec_main() to choose the options 
 
