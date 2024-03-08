@@ -5,8 +5,7 @@ This repository is created for Banking System.
 
 Overview
 
-
-Used OOPS concept
+A mini-project demonstrating OOP concepts in Python.
 Class features
 Bank name
 Branch
